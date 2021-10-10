@@ -5,7 +5,6 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "OmniBit": "github:lzty634158/OmniBit#21c29d255327798ea59b4e2a870ae219d3901af6",
         "GHBit": "github:lzty634158/GHBit#bbbe5f812211ee7b1576bbb046b981339dca5bbc"
     },
     "files": [

@@ -1,6 +1,13 @@
 
 > Open this page at [https://timnew.github.io/omni_bit_remote/](https://timnew.github.io/omni_bit_remote/)
 
+## Introduction
+
+
+This is a project that targeted to run on MicroBit with [Yahboom Omni:bit](https://category.yahboom.net/collections/micro-bit/products/omni-bit) via a [Yahboom micro:bit Game Handle](https://category.yahboom.net/collections/micro-bit/products/basicgamehandle)
+It behaves similar to the official solution but with a much more graceful and cleaner solution.
+
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
